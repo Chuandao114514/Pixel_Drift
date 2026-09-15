@@ -10,8 +10,8 @@ const TextureFactory = {
 
   build(scene) {
     // All characters and scenery now load PNG art; only pickups use the factory.
-    this.makeEmerald(scene);
-    this.makeLifeCrystal(scene);
+    // this.makeEmerald(scene);
+    // this.makeLifeCrystal(scene);
   },
 
   /* 远景云层：480 x 260，白-灰系（可染色） */
